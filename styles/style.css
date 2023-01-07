@@ -409,3 +409,39 @@ left: 466px;
 top: 630px;
 
 }
+.subscribe{
+    position: absolute;
+  width: 123px;
+  height: 29px;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 29px;
+  color: #FFFFFF;
+  top: 155px;
+  right: 306px;
+
+}
+.input-section{
+    position: absolute;
+    width: 146px;
+    height: 21px;
+    right: 278px;
+    top: 201px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #F3F3F3;
+    background: black;
+}
+.subscibe-button{
+    position: absolute;
+    width: 102.11px;
+    height: 46px;
+    right: 327px;
+    top: 247px;
+    color: red;
+}
