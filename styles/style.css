@@ -66,8 +66,8 @@ margin-top: -250px;
     right: 88px;
     float: right;
     margin-right: 793px;
-    margin-top: 225px;
-    height: 38px;
+    margin-top: 235px;
+    height: 25px;
   }
 .about-image{
     position: absolute;
@@ -107,7 +107,7 @@ margin-top: -250px;
     position: absolute;
     width: 266px;
     height: 162px;
-    left: 917px;
+    left: 921px;
     top: 1192px;
     font-size: 12px;
     color: #444343;
@@ -117,54 +117,161 @@ margin-top: -250px;
 i{
    color: green;
 }
-
-  section{
-    margin-top: 130px;
-}
-.my-plan{
+.plan-title{
     position: absolute;
-width: 1141px;
-height: 299.96px;
-left: 237px;
-top: 1465px;
-text-align: center;
-font-size: 32px;
+    width: -23px;
+    height: 8px;
+    left: 708px;
+    top: 1621.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 47px;
+    line-height: 45px;
+    color: #151414;
+    text-align: center;
+    
 }
+.plan-image
+{
+    position: absolute;
+    width: 63.96px;
+    height: 62.96px;
+    left: 381px;
+    top: 1952px;
 
-.skills-container{
+}
+.plan-subtitle{
+    position: absolute;
+    width: 270px;
+    height: 79.74px;
+    left: 281px;
+    top: 1769.26px;
+    text-align: center;
+    font-size: 23px;
+
+}
+.plan-description{
+    position: absolute;
+    width: 177px;
+    height: 29px;
+    left: 321px;
+    top: 1797.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+    text-align: center;
+  
+}
+.plan-section{
     display: flex;
     gap: 24px;
 }
-.skill img{
-    height: 57px;
-margin-bottom: -43px;
+.plan-image1{
+    position: absolute;
+width: 75.96px;
+height: 62.96px;
+left: 630px;
+top:1952px;
 }
-.skill-title{
-position: absolute;
-width: 299px;
-height: 35px;
-left: -113px;
-font-family: 'Work Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 35px;
+.plan-subtitle-1{
+    position: absolute;
+    width: 270px;
+    height: 79.74px;
+    left: 528px;
+    top: 1769.26px;
+    text-align: center;
+    font-size: 23px;
+
+}
+.plan-description-1{
+    position: absolute;
+    width: 177px;
+    height: 29px;
+    left: 570px;
+    top: 1797.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+    text-align: center;
+  
+}
+.plan-image-3
+{
+    position: absolute;
+    width: 63.96px;
+    height: 62.96px;
+    
+    top: 1952px;
+    right: 626px;
+
+}
+.plan-subtitle-3{
+    position: absolute;
+width: 270px;
+height: 79.74px;
+top: 1769.26px;
 text-align: center;
-color: #151414;
-margin-top: 34px;
+font-size: 23px;
+right: 525px;
+
 }
-.skill-description{
-position: absolute;
-width: 164px;
+.plan-description-3{
+    position: absolute;
+    width: 177px;
+    height: 29px;
+    left: 786px;
+    top: 1797.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+    text-align: center;
+  
+}
+.plan-image-4
+{
+    position: absolute;
+    width: 63.96px;
+    height: 62.96px;
+    top: 1952px;
+    right: 407px;
+
+}
+.plan-subtitle-4{
+    position: absolute;
+    width: 270px;
+    height: 79.74px;
+    top: 1769.26px;
+    text-align: center;
+    font-size: 23px;
+    right: 300px;
+
+}
+.plan-description-4{
+    position: absolute;
+width: 177px;
 height: 29px;
+left: 1008px;
+top: 1797.3px;
 font-family: 'Work Sans';
 font-style: normal;
 font-weight: 500;
-font-size: 13px;
+font-size: 18px;
 line-height: 29px;
 text-align: center;
 color: #737272;
-right: 34px;
-left: -52px;
-top: 158px;
+text-align: center;
+  
 }
