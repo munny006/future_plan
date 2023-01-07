@@ -279,7 +279,7 @@ text-align: center;
 /*grdiant */
 #getstarted{
 	background: url('../images/watch.png'); 
-    background: url('../images/watch.png');
+   
 position: absolute;
 width: 1140px;
 height: 300px;
@@ -294,5 +294,118 @@ border-radius: 8px;
 	left: 0;
 	min-height: 100%;
 	width: 100%;
+
+}
+.optional-skill{
+    position: absolute;
+    width: -23px;
+    height: 8px;
+    left: 708px;
+    top: 2199.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 47px;
+    line-height: 45px;
+    color: #151414;
+    text-align: center;
+}
+.optional-image{
+    position: absolute;
+width: 388px;
+height: 221px;
+left: 677px;
+top: 2516.26px;
+}
+.optional-text{
+    position: absolute;
+width: 388px;
+height: 221px;
+left: 669px;
+top: 2507.26px;
+text-align: left;
+}
+.footer-main{
+    position: absolute;
+width: 1600px;
+height: 577px;
+left: 0px;
+top: 2652.26px;
+background: #151414;
+}
+.footer-header{
+    position: absolute;
+    width: 148px;
+    height: 53px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+    top: 148px;
+    left: 333px;
+}
+.footer-description{
+    position: absolute;
+    width: 457px;
+    height: 78px;
+    font-family: 'Work Sans';
+    font-style: normal;
+   
+   
+    line-height: 26px;
+    color: #FFFFFF;
+    top: 225px;
+    left: 329px;
+  
+font-weight: 291;
+line-height: 25px;
+font-size: 13px;
+}
+.subdescription{
+    position: absolute;
+    width: 184px;
+    height: 26px;
+    left:329px;
+    top: 309px;
+    color: white;
+    font-size: 16px;
+    line-height: 1.2;
+font-weight: 338;
+}
+.subdescription-1{
+    position: absolute;
+    width: 184px;
+    height: 26px;
+    left: 326px;
+    top: 336px;
+    color: white;
+    font-size: 14px;
+    line-height: 1.2;
+    font-weight: 338;
+}
+.icon-1{
+    position: absolute;
+width: 47px;
+height: 46px;
+left: 334px;
+top: 630px;
+
+}
+.icon-2{
+    position: absolute;
+width: 47px;
+height:46px;
+left: 396px;
+top: 630px;
+
+}
+.icon-3{
+    position: absolute;
+width: 47px;
+height:46px;
+left: 466px;
+top: 630px;
 
 }
